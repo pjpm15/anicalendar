@@ -1,0 +1,5 @@
+# Your real account list — never commit this. See README.md.
+config.json
+
+__pycache__/
+*.pyc

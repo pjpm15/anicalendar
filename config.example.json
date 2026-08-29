@@ -1,0 +1,8 @@
+{
+  "accounts": [
+    {
+      "username": "YOUR_ANILIST_USERNAME",
+      "statuses": ["CURRENT", "PLANNING"]
+    }
+  ]
+}
