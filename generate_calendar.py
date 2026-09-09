@@ -80,7 +80,11 @@ def fetch_list(username: str, statuses: list[str]) -> dict:
     )
     if resp.status_code == 404:
         raise ValueError(f"AniList user '{username}' not found.")
-    resp.raise_for_status()
+        
+    if resp.status_code >= 400:
+    raise ValueError(
+        f"AniList API returned {resp.status_code} for '{username}': {resp.text}"
+    )
     payload = resp.json()
     if "errors" in payload and payload["errors"]:
         raise ValueError(f"AniList API error for '{username}': {payload['errors']}")
