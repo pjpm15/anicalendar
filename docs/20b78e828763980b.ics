@@ -8,98 +8,8 @@ X-WR-TIMEZONE:UTC
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:anilist-195539-ep1@anilist-calendar
-DTSTAMP:20261020T033105Z
-DTSTART:20261020T070000Z
-DURATION:PT30M
-SUMMARY:Cyberpunk: Edgerunners 2 - Episode 1
-DESCRIPTION:Cyberpunk: Edgerunners 2\, episode 1\nhttps://anilist.co/anime/195539
-URL:https://anilist.co/anime/195539
-END:VEVENT
-BEGIN:VEVENT
-UID:anilist-195539-ep2@anilist-calendar
-DTSTAMP:20261020T033105Z
-DTSTART:20261020T070000Z
-DURATION:PT30M
-SUMMARY:Cyberpunk: Edgerunners 2 - Episode 2
-DESCRIPTION:Cyberpunk: Edgerunners 2\, episode 2\nhttps://anilist.co/anime/195539
-URL:https://anilist.co/anime/195539
-END:VEVENT
-BEGIN:VEVENT
-UID:anilist-195539-ep3@anilist-calendar
-DTSTAMP:20261020T033105Z
-DTSTART:20261020T070000Z
-DURATION:PT30M
-SUMMARY:Cyberpunk: Edgerunners 2 - Episode 3
-DESCRIPTION:Cyberpunk: Edgerunners 2\, episode 3\nhttps://anilist.co/anime/195539
-URL:https://anilist.co/anime/195539
-END:VEVENT
-BEGIN:VEVENT
-UID:anilist-195539-ep4@anilist-calendar
-DTSTAMP:20261020T033105Z
-DTSTART:20261020T070000Z
-DURATION:PT30M
-SUMMARY:Cyberpunk: Edgerunners 2 - Episode 4
-DESCRIPTION:Cyberpunk: Edgerunners 2\, episode 4\nhttps://anilist.co/anime/195539
-URL:https://anilist.co/anime/195539
-END:VEVENT
-BEGIN:VEVENT
-UID:anilist-195539-ep5@anilist-calendar
-DTSTAMP:20261020T033105Z
-DTSTART:20261020T070000Z
-DURATION:PT30M
-SUMMARY:Cyberpunk: Edgerunners 2 - Episode 5
-DESCRIPTION:Cyberpunk: Edgerunners 2\, episode 5\nhttps://anilist.co/anime/195539
-URL:https://anilist.co/anime/195539
-END:VEVENT
-BEGIN:VEVENT
-UID:anilist-195539-ep6@anilist-calendar
-DTSTAMP:20261020T033105Z
-DTSTART:20261020T070000Z
-DURATION:PT30M
-SUMMARY:Cyberpunk: Edgerunners 2 - Episode 6
-DESCRIPTION:Cyberpunk: Edgerunners 2\, episode 6\nhttps://anilist.co/anime/195539
-URL:https://anilist.co/anime/195539
-END:VEVENT
-BEGIN:VEVENT
-UID:anilist-195539-ep7@anilist-calendar
-DTSTAMP:20261020T033105Z
-DTSTART:20261020T070000Z
-DURATION:PT30M
-SUMMARY:Cyberpunk: Edgerunners 2 - Episode 7
-DESCRIPTION:Cyberpunk: Edgerunners 2\, episode 7\nhttps://anilist.co/anime/195539
-URL:https://anilist.co/anime/195539
-END:VEVENT
-BEGIN:VEVENT
-UID:anilist-195539-ep8@anilist-calendar
-DTSTAMP:20261020T033105Z
-DTSTART:20261020T070000Z
-DURATION:PT30M
-SUMMARY:Cyberpunk: Edgerunners 2 - Episode 8
-DESCRIPTION:Cyberpunk: Edgerunners 2\, episode 8\nhttps://anilist.co/anime/195539
-URL:https://anilist.co/anime/195539
-END:VEVENT
-BEGIN:VEVENT
-UID:anilist-195539-ep9@anilist-calendar
-DTSTAMP:20261020T033105Z
-DTSTART:20261020T070000Z
-DURATION:PT30M
-SUMMARY:Cyberpunk: Edgerunners 2 - Episode 9
-DESCRIPTION:Cyberpunk: Edgerunners 2\, episode 9\nhttps://anilist.co/anime/195539
-URL:https://anilist.co/anime/195539
-END:VEVENT
-BEGIN:VEVENT
-UID:anilist-195539-ep10@anilist-calendar
-DTSTAMP:20261020T033105Z
-DTSTART:20261020T070000Z
-DURATION:PT30M
-SUMMARY:Cyberpunk: Edgerunners 2 - Episode 10
-DESCRIPTION:Cyberpunk: Edgerunners 2\, episode 10\nhttps://anilist.co/anime/195539
-URL:https://anilist.co/anime/195539
-END:VEVENT
-BEGIN:VEVENT
 UID:anilist-185874-ep10@anilist-calendar
-DTSTAMP:20261020T033105Z
+DTSTAMP:20261020T105716Z
 DTSTART:20261026T150000Z
 DURATION:PT30M
 SUMMARY:BLEACH: Thousand-Year Blood War - The Calamity - Episode 10
@@ -108,7 +18,7 @@ URL:https://anilist.co/anime/185874
 END:VEVENT
 BEGIN:VEVENT
 UID:anilist-195516-ep4@anilist-calendar
-DTSTAMP:20261020T033105Z
+DTSTAMP:20261020T105716Z
 DTSTART:20261023T140000Z
 DURATION:PT30M
 SUMMARY:The Apothecary Diaries Season 3 - Episode 4
@@ -117,7 +27,7 @@ URL:https://anilist.co/anime/195516
 END:VEVENT
 BEGIN:VEVENT
 UID:anilist-195516-ep5@anilist-calendar
-DTSTAMP:20261020T033105Z
+DTSTAMP:20261020T105716Z
 DTSTART:20261030T140000Z
 DURATION:PT30M
 SUMMARY:The Apothecary Diaries Season 3 - Episode 5
@@ -126,7 +36,7 @@ URL:https://anilist.co/anime/195516
 END:VEVENT
 BEGIN:VEVENT
 UID:anilist-195516-ep6@anilist-calendar
-DTSTAMP:20261020T033105Z
+DTSTAMP:20261020T105716Z
 DTSTART:20261106T140000Z
 DURATION:PT30M
 SUMMARY:The Apothecary Diaries Season 3 - Episode 6
@@ -135,7 +45,7 @@ URL:https://anilist.co/anime/195516
 END:VEVENT
 BEGIN:VEVENT
 UID:anilist-195516-ep7@anilist-calendar
-DTSTAMP:20261020T033105Z
+DTSTAMP:20261020T105716Z
 DTSTART:20261113T140000Z
 DURATION:PT30M
 SUMMARY:The Apothecary Diaries Season 3 - Episode 7
@@ -144,7 +54,7 @@ URL:https://anilist.co/anime/195516
 END:VEVENT
 BEGIN:VEVENT
 UID:anilist-195516-ep8@anilist-calendar
-DTSTAMP:20261020T033105Z
+DTSTAMP:20261020T105716Z
 DTSTART:20261120T140000Z
 DURATION:PT30M
 SUMMARY:The Apothecary Diaries Season 3 - Episode 8
@@ -153,7 +63,7 @@ URL:https://anilist.co/anime/195516
 END:VEVENT
 BEGIN:VEVENT
 UID:anilist-195516-ep9@anilist-calendar
-DTSTAMP:20261020T033105Z
+DTSTAMP:20261020T105716Z
 DTSTART:20261127T140000Z
 DURATION:PT30M
 SUMMARY:The Apothecary Diaries Season 3 - Episode 9
@@ -162,7 +72,7 @@ URL:https://anilist.co/anime/195516
 END:VEVENT
 BEGIN:VEVENT
 UID:anilist-195516-ep10@anilist-calendar
-DTSTAMP:20261020T033105Z
+DTSTAMP:20261020T105716Z
 DTSTART:20261204T140000Z
 DURATION:PT30M
 SUMMARY:The Apothecary Diaries Season 3 - Episode 10
@@ -171,7 +81,7 @@ URL:https://anilist.co/anime/195516
 END:VEVENT
 BEGIN:VEVENT
 UID:anilist-195516-ep11@anilist-calendar
-DTSTAMP:20261020T033105Z
+DTSTAMP:20261020T105716Z
 DTSTART:20261211T140000Z
 DURATION:PT30M
 SUMMARY:The Apothecary Diaries Season 3 - Episode 11
@@ -180,7 +90,7 @@ URL:https://anilist.co/anime/195516
 END:VEVENT
 BEGIN:VEVENT
 UID:anilist-195516-ep12@anilist-calendar
-DTSTAMP:20261020T033105Z
+DTSTAMP:20261020T105716Z
 DTSTART:20261218T140000Z
 DURATION:PT30M
 SUMMARY:The Apothecary Diaries Season 3 - Episode 12
